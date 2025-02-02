@@ -45,6 +45,11 @@ export default {
   height: 100vh;
   display: grid;
   place-items: center;
+
+  width: 100vw;
+  background-image: url(/src/assets/img/home.jpg);
+  background-position: center;
+  background-size: cover;
 }
 .container > .envelope-wrapper {
   background: #7e8fb7;
